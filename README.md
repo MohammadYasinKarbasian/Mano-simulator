@@ -9,3 +9,5 @@
 * Save your code in .txt format
 * See your compiler flags 
 * See what's happened in your RAM using the table
+# Requirement
+ I use QT creator 7.0.2
